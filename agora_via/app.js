@@ -34,6 +34,6 @@ const handleCountdowDisplay = () => {
     countdownConteiner.style.display = 'flex'
 }
 
-setTimeout(handleCountdowDisplay, 3500)
+setTimeout(handleCountdowDisplay, 4000)
 
 setInterval(updadeCountdown, 1000)
